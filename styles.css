@@ -1,5 +1,9 @@
 #body
 {
     background-color: lightgoldenrodyellow;
-    padding-bottom: 70px;
+    margin-bottom: 100px;
+}
+.navbar-nav .nav-link.active{
+    font-weight:bold;
+    text-decoration-line: underline;
 }
